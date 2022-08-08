@@ -88,6 +88,7 @@ export {Replace} from './source/replace';
 export {Includes} from './source/includes';
 export {Get} from './source/get';
 export {LastArrayElement} from './source/last-array-element';
+export {KeyofDeep} from './source/keyof-deep'
 
 // Miscellaneous
 export {PackageJson} from './source/package-json';
